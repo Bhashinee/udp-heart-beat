@@ -1,0 +1,5 @@
+[UdpHeartbeat]
+interval = 10
+passes = 3
+retryCount = 5
+runCount = 5
